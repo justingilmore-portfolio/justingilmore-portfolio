@@ -6,7 +6,6 @@ I bridge the gap between complex engineering systems and clear, actionable user 
 ---
 
 ## 🚀 Featured Writing Samples
-*Choose 3-4 diverse samples that show range.*
 
 ### [Project Name 1: e.g., Cloud Sync API Reference]
 * **The Problem:** Developers struggled to authenticate with the legacy OAuth2 flow.
@@ -44,6 +43,6 @@ I believe in giving back to the developer community. Below is my activity across
 --- -->.
 
 ## 📫 Let's Connect
-* **LinkedIn:** https://www.linkedin.com/in/justin-gilmore-163baa44.
-* **Portfolio Site:** [Link to your GitHub Pages site]
+* **LinkedIn:** https://www.linkedin.com/in/justin-gilmore-163baa44
+* **Portfolio Site:** [Link to your GitHub Pages site
 * **Email:** 1justingilmore@gmail.com
